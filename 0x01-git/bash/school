@@ -1,2 +1,4 @@
 #!/bin/bash\necho "school " 
 #!/bin/bash\necho "school " 
+#!/bin/bash 
+echo "School"
